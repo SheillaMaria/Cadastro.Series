@@ -1,0 +1,16 @@
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.exe
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.deps.json
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.runtimeconfig.json
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.runtimeconfig.dev.json
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.dll
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Cadastro.Series\bin\Debug\net5.0\ref\Cadastro.Series.dll
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.pdb
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.csprojAssemblyReference.cache
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.AssemblyInfoInputs.cache
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.AssemblyInfo.cs
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.csproj.CoreCompileInputs.cache
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.dll
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Cadastro.Series\obj\Debug\net5.0\ref\Cadastro.Series.dll
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.pdb
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.genruntimeconfig.cache
